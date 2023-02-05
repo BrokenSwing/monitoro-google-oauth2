@@ -4,8 +4,7 @@
   "description": "Webapp to have monitoro setup with google oauth2 auth",
   "main": "index.ts",
   "scripts": {
-    "dev": "ts-node index.ts",
-    "start": "ts-node index.js",
+    "start": "ts-node index.ts",
     "build": "tsc -p ."
   },
   "author": "",
